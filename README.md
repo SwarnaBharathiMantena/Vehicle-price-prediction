@@ -9,3 +9,6 @@ The main tasks that I concentrated on include:
 4. Predict using - Linear SVR, Decision Trees, Random Forest Regressor, Gradient Boosting Regressorr, and XGBoost Regressor 
 5. Feature Selection 
 6. Develope an explainable model that performs well
+
+
+Project partner: Hima Bindhu Bharadwaj
